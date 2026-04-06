@@ -1,0 +1,81 @@
+# Local evidence from teardown investigations
+local/
+
+# Environment & secrets
+.env
+*.env
+*.env.*
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.npm
+.yarn
+.pnp.*
+
+# Build output
+dist/
+build/
+out/
+.next/
+.nuxt/
+.astro/
+.svelte-kit/
+.turbo/
+.cache/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python (if scripts ever use it)
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Playwright state
+.playwright-cli/
+.playwright-mcp/
+
+# Claude Code
+.claude/settings.local.json
+.codex
+
+# Coverage & testing
+coverage/
+.nyc_output/
+*.lcov
+
+# Misc
+*.tgz
+*.zip
+*.tar.gz
+tmp/
+temp/
