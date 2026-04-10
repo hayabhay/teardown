@@ -21,6 +21,7 @@ findings:
   - "The privacy policy discloses Google Analytics and Facebook but omits Twitter/X and Trade Desk, both of which fire on every page -- including the breach notification page at /MyDataReview where affected individuals check their exposure from a 2023 Dark Web leak."
   - "Certificate transparency logs expose BART's full operational subdomain map: Automated Fare Collection systems, a Master Control System GUI, train status infrastructure, VPN endpoints, Fortinet appliances, and a USGS ShakeCast earthquake notification system."
   - "Facebook Pixel, Twitter/X, Trade Desk, and Google Ads fire on every page of this government transit site with no consent banner and Google Consent Mode explicitly set to false in the Drupal configuration."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 BART is a 50-station rail network serving the San Francisco Bay Area, running roughly 27 trains at any given hour. Its web presence reflects three decades of accumulated technical decisions -- a modern Drupal CMS layered over a 15-year-old transit API, a trip planner licensed from a Deutsche Bahn subsidiary, and a new AI chatbot under construction on AWS. Those layers don't share the same security posture.

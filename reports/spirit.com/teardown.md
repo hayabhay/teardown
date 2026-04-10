@@ -57,6 +57,7 @@ findings:
   - "Session cookie JWT decodes to Navitaire dotRez reservation internals — agent name, role codes, sequential person IDs, and a systemType identifier that fingerprints the exact platform."
   - "Adobe Target fires two A/B test impressions at dataLayer positions 3 and 9; OneTrust consent framework does not load until position 12, and the user's C0004 (Targeting) consent group is off."
   - "GTM container reveals securitytrfx.com is Everymundo's tracking pixel disguised under a security-sounding domain — the same vendor operating Spirit's competitive fare scraper on the SSL cert."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

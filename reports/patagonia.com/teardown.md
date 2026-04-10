@@ -20,6 +20,7 @@ findings:
   - "A developer's personal Downloads folder path (file:///Users/jreyesco/Downloads/botfailover (5).html) has been leaking in production since April 2020 — every non-browser request to patagonia.com, including robots.txt, returns this six-year-old Akamai failover page instead of real content."
   - "OneTrust is configured opt-out with all five consent groups pre-consented at page load — 46 cookies from 17 vendors including FullStory session replay, TikTok, and The Trade Desk fire before any visitor interaction, confirmed active for California."
   - "The Worn Wear recommerce catalog at wornwear.patagonia.com runs on Shopify entirely separate from the SFCC main site, and its /products.json endpoint serves 500+ used product listings with prices to any unauthenticated caller."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Platform & Architecture

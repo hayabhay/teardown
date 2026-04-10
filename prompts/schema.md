@@ -22,6 +22,7 @@ tags: [tag1, tag2]
 headline: "{One discovery}"
 findings:
   - "{Surprising discovery with evidence}"
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 ```
 
@@ -45,6 +46,7 @@ findings:
 | `tags` | 6-10 items. Lowercase, hyphenated. |
 | `headline` | One sentence, **25 words max**. See Craft Guidance. |
 | `findings` | 3-5 items, ranked. See Craft Guidance. |
+| `disclaimer` | Always `"AI-generated report. Findings may contain inaccuracies and should be independently verified."` |
 | (comment) | First line after `---`. Always `# agents: machine-friendly instructions in "## Machine Briefing"`. |
 
 ## Craft Guidance

@@ -21,6 +21,7 @@ findings:
   - "Dotomi fires with dtm_consent=UNSPECIFIED and transmits IP-derived location (dtm_zip_code, dtm_state, dtm_dma_code), full user agent, and a SHA-256 hashed user ID to ~30 third-party ad networks via its sync mechanism — all before any consent selection."
   - "Adobe Target feature decisions are returned from /api/adobe-target without authentication on every page load. The mfrm-seg cookie (e.g., of0-bdl1-stbd1-) encodes the visitor's current experiment state in plain text, is readable by JavaScript, and expires in the year 3025."
   - "Cloudflare response headers passthrough internal geo-enrichment data on every 403: x-0-geo-city, x-0-geo-latitude, x-0-geo-longitude, x-0-geo-postal-code, x-0-geo-state-code, x-0-geo-metro-code — leaking the visitor's precise location to any observer of the response headers, including browser extensions and proxies."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

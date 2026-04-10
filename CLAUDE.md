@@ -1,6 +1,6 @@
 # teardown — reports & skills
 
-Tearing down websites to find human creep & slop — for machines, by machines.
+Tearing down websites to find creep & slop — for machines, by machines.
 
 ## Key paths
 

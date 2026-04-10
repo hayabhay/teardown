@@ -21,6 +21,7 @@ findings:
   - "Chegg pre-enables all tracking consent categories before you interact with the cookie banner — seven ad networks including Meta, TikTok, and Snapchat start collecting data the moment the page loads."
   - "Production JavaScript embeds hostnames for six internal environments including dev, staging, trunk, and release candidate servers, plus Kubernetes service discovery names — a map of Chegg's internal infrastructure."
   - "The userData cookie exposes your login state as readable JSON with no HttpOnly flag — every ad pixel and third-party script on the page can check whether you're signed in."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

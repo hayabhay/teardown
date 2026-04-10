@@ -21,6 +21,7 @@ findings:
   - "Cox Auto's Pixall identity graph links Autotrader and KBB visitors under one ID and syncs it to BlueCava for device fingerprinting — three cookies carry the same value, none HttpOnly"
   - "Two public S3 buckets serve the payment calculator's interest rate table and internal API URL map including ICO and valuation endpoints — no authentication required"
   - "Source maps are publicly accessible and reveal @atc, Cox Auto's internal npm package namespace — the private registry scope is visible in every chunk"
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

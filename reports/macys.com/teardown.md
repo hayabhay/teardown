@@ -72,6 +72,7 @@ findings:
   - "A public token endpoint issues live Google Cloud bearer tokens scoped to cloud-platform with no authentication and no rate limiting — five rapid requests return five distinct tokens, each valid for an hour, under the service account that powers their AI shopping assistant."
   - "65 cookies are already set and 33 trackers are already recording before a visitor sees the consent banner — OneTrust is configured to pre-enable all tracking categories including advertising and social media targeting."
   - "Macy's production Tealium container still references internal dev hostnames on fds.com (Federated Department Stores) — a POC environment and a performance testing server that were never scrubbed before deployment."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

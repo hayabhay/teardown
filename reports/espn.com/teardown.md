@@ -60,6 +60,7 @@ findings:
   - "ESPN's Fastcast real-time data service hands out live WebSocket connection tokens from a public endpoint with no auth, letting any third party subscribe to the same live score streams that power ESPN's own scoreboard."
   - "A 20-year tracking cookie (SWID) is set in the HTTP response headers on first visit, assigning a persistent cross-session identity before the page even renders."
   - "sports.core.api.espn.com returns full athlete, contract, and betting odds data without authentication — the same open API that powers ESPN's own pages is available to any caller with no rate limiting observed."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

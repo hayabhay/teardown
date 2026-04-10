@@ -47,6 +47,7 @@ findings:
   - "The footer ships Adobe's corporate address (345 Park Avenue, San Jose, CA 95110) instead of Dollar General's headquarters — a template placeholder that made it to production with a 2024 copyright date."
   - "Signifyd fraud detection is fully wired into the page (CDN script URL, DOM node ID) but the feature flag isSignifydSdkOn is false — checkout runs without client-side fraud scoring."
   - "The return policy modal contains two links pointing to http://localhost:4502 — the AEM author instance's default port — that shipped to production and render as dead links for every user."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

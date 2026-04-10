@@ -21,6 +21,7 @@ findings:
   - "A fully unauthenticated public Webmasters API serves complete video metadata, paginated search, and 448,286 user-created tags with no rate limiting or API key — the tags endpoint even includes a warning in its own response about the volume."
   - "Google Consent Mode defaults to ad_storage and analytics_storage granted before the consent banner renders for non-EU visitors, confirmed by a cookie-banner-impression-noneu event — full ad and analytics tracking fires without any user action."
   - "Video player flashvars expose a 37-value per-segment audience engagement heatmap (hotspots array) to every unauthenticated visitor, revealing exactly which moments in a video are most watched."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

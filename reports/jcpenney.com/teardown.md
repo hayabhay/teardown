@@ -69,6 +69,7 @@ findings:
   - "Production source maps on static-jcpenney.com serve the full unminified checkout source (PaymentService.js, NewCheckoutSaga.js, NewPaymentSaga.js), exposing internal API paths for billing and order processing to anyone who downloads them"
   - "Every HTTP response includes an x-application-context header disclosing the gateway framework, container orchestrator, cluster name, internal port, and active Spring profiles — a one-header infrastructure map"
   - "Checkout still runs on Oracle ATG Commerce, a platform Oracle discontinued, confirmed by the debugSource flag 'checkout platform=legacy atg' — the replacement (checkoutRedesign) remains toggled off"
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 JCPenney's website runs deeper than its polished storefront suggests. The platform is entirely custom-built — an internal React SSR stack called "Yoda" — but underneath it: a legacy Oracle commerce engine still processing every checkout, production infrastructure details in every HTTP header, a product API with no authentication gate, and one of the more thorough ad-tech surveillance buildouts in US retail.

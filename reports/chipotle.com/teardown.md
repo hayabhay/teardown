@@ -21,6 +21,7 @@ findings:
   - "Honey Chicken (CMG-1115, 210 cal, 'A Touch of Heat & Sweet') is fully staged in the menu metadata catalog with a promo 'New' tag and dietary flags, already queued in the upsell API, but absent from the live ordering menu."
   - "The production legal-text GraphQL endpoint returns literal 'Test Content' for a field called chooseYourOwnBirthday — a rewards birthday-customization feature leaking its existence before launch."
   - "An unauthenticated AEM experience fragment at /experience-fragments/rewards-banner-experience-fragment/master carries the page title 'TEMP DO NOT DELETE - GOLDIE - master', exposing an internal codename on the public web."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 Chipotle's web presence is four separate stacks stitched together under a single domain. The main marketing site runs Adobe Experience Manager with a custom namespace (`cmgaemacs`). The order app is a Vue.js SPA served from Azure Blob Storage at `orderweb-cdn.chipotle.com` and embedded in the AEM shell. Catering lives on a completely separate Microsoft IIS server with its own Vue.js build. And quietly running at `amelia.chipotle.com` is a Microsoft Nuance AI chatbot reachable by anyone with the URL.

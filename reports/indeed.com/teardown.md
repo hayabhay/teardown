@@ -21,6 +21,7 @@ findings:
   - "753 A/B tests are exposed on the SERP in jobseekerProctorGroups. Active clusters include LLM-powered job view features (jsj_mellm_vj_* suite), an Indeed Pro subscription with auto-apply, and fraud disclosure infrastructure (honeypot_job_card_tst, nexus_job_seeker_disclaimer)."
   - "The iSpot.tv TV ad attribution pixel fires on every homepage load, but its URL is base64-encoded inside _initialData rather than appearing in plain network traffic — a deliberate obfuscation that hides the tracker from standard inspection."
   - "GTM container GTM-M7N65VVK initializes all seven consent signals as granted before any user interaction. No consent banner appears for US visitors — ad_storage, analytics_storage, and ad_personalization are live on page load."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

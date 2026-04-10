@@ -21,6 +21,7 @@ findings:
   - "The visitor's full IP address, city, state code, and ISP are server-rendered into window.appContext.collectorData — a JavaScript global readable by every third-party script on the page, including the TrafficStars ad network and Amplitude analytics SDK."
   - "GA4 analytics route through a first-party server-side GTM container at vnt.xhamster.com before reaching Google — making standard ad-blocker host lists and DNS filtering ineffective against this tracking traffic."
   - "The server delivers a consent cookie with all four categories pre-approved (essential, functional, targeting, analytical) in the very first HTTP response — before JavaScript loads or any user interaction occurs — and GTM reads it as granted consent, firing all trackers immediately."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 xHamster has been online since 2007. It's operated by Hammy Media Ltd, registered in the Republic of Cyprus, and handles a scale of traffic that makes it one of the most-visited adult platforms on the web. The investigation captured behavior across the homepage, a video page, and a search results page — all without an account.

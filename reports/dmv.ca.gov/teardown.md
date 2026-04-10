@@ -21,6 +21,7 @@ findings:
   - "Multiple WordPress REST endpoints return an internal IBM ISAM error page branded 'Plumtree' instead of JSON, exposing the proxy architecture and leaving all WP site-health checks dead in production."
   - "The WordPress file manager endpoint exposes 2,840 public documents including autonomous vehicle daily incident reports from Waymo and Zoox, with predictable slug patterns and no authentication."
   - "A JS assignment bug in the vehicle registration system (if (msg = 'CloseModal') instead of ===) means any postMessage event from the virtual assistant dismisses the ineligibility modal, regardless of content."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture
