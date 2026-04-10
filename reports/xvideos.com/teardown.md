@@ -21,6 +21,7 @@ findings:
   - "The visitor's IP address and country are inlined in window.xv.conf.dyn on every page, readable by every third-party script including the ad network and analytics agents."
   - "The embed frame endpoint serves a full video player with signed CDN URLs and no age gate -- the server explicitly sets show_disclaimer to false for embed requests."
   - "CSP img-src allowlists 17 sports betting and gambling affiliate domains including Melbet and 1xBet variants, confirming gambling ads run alongside adult content through ExoClick."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 xvideos.com is one of the largest adult video platforms on the internet, operated by WGCZ Holding, a Czech company that also runs xnxx.com, xvideos.red (premium tier), xvlivecams.com (live cams), and pornbiz.com (industry blog). The two flagship properties -- xvideos and xnxx -- are the same platform running the same code, not just affiliated sites.

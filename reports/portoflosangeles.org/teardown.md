@@ -50,6 +50,7 @@ findings:
   - "The robots.txt points to a dead external sitemap host (a157189.sitemapshosting.com) that no longer resolves, while the actual 14,185-URL sitemap lives on the main domain — search engines following the canonical directive get nothing."
   - "The City of LA global emergency alert navbar loaded from S3/CloudFront on every page still contains placeholder variables — navbarCitywideEmergencyText is literally set to '<ENTER DESIRED TITLE>' — meaning the citywide alert system has never been configured for this department."
   - "Every page loads Universal Analytics UA-4123339-1 twice — once in the head before GTM, and again through the GTM container GTM-5GCXK6P alongside GA4 property G-EMXHJRYLTH — duplicating every pageview hit to a deprecated analytics property."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

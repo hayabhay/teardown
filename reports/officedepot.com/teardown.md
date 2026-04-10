@@ -53,6 +53,7 @@ findings:
   - "Criteo retargeting fires on search pages while OneTrust's consent cookie explicitly records C0004 (Targeting/Advertising) as disabled — the consent framework says no, the network says yes."
   - "An Oracle ATG cross-device identity script dated May 2013 loads on every page and returns visitor IDs via unauthenticated JSONP — the same script, unchanged, for over a decade on a live production site."
   - "The guest JWT cookie has no HttpOnly flag, making it readable by every third-party script on the page — and the payload names internal infrastructure: the 'WARP' auth service, specific WebSphere node IDs, and the inventory location used to price the session."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

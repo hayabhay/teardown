@@ -55,6 +55,7 @@ findings:
   - "Korean and Japanese ad pixels (Naver, Kakao Daum, Line) fire on every US page load via Adobe Launch rules that aren't gated by visitor locale"
   - "Session API returns visitor geolocation from Akamai — ZIP, city, lat/long, ISP, bandwidth — to unauthenticated requests, then persists it to localStorage where any third-party script can read it"
   - "Internal Kubernetes service hostname `mi-interceptor-app-blue.phoenix-prod1.svc.cluster.local` ships to every visitor's browser in Next.js SSR props"
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

@@ -53,6 +53,7 @@ findings:
   - "The pharmacist-pal-chat flag's exclusion list names 13 internal service accounts by drug -- SRV_ADPBOTADEMPAS (pulmonary hypertension), SRV_ADPBOTXIAFLEX (Peyronie's disease), SRV_ADPBOTOPSUMIT and SRV_ADPBOTAMBRISEN (both pulmonary arterial hypertension) -- exposing the specialty infusion automation bots Coram runs for each high-cost medication."
   - "All consent groups default to active on first page load -- 14 DoubleClick conversion pixels, 10 Google Campaign Manager requests, and 25 Quantum Metric session replay frames fire before any user interaction, while Global Privacy Control signals are silently ignored (browserGpcFlag=0, isGpcEnabled=0)."
   - "CVS deploys Flutter Web in production for pharmacy list transfer flows -- plp_flutter_transfer is enabled with canary/live version tracking (1.0.98-prod-1), an architecturally unusual choice for a high-traffic retail pharmacy site."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

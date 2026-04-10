@@ -21,6 +21,7 @@ findings:
   - "Akamai sets 13 named feature flag cookies on every HTTP response before JavaScript loads — AKA_HP2, AKA_PDP2, AKA_CNC2, AKA_CDP2, AKA_STP, AKA_PIQ — plus eight random values for independent traffic splits, exposing the full ShopNext migration taxonomy."
   - "Google Analytics 4 property G-ZLYRBY87M8 runs with debug_mode: true on production — every real user session is tagged as a debug event, polluting both the debug view and production reports."
   - "OneTrust is configured with CCPA opt-out rules and SkipGeolocation enabled, auto-opting every visitor worldwide into all six tracking categories on first load — 44 third-party domains including LiveRamp, ID5, Criteo, and DoubleClick fire before any user interaction."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 Kohl's is operating two distinct sites simultaneously. The homepage runs on Adobe Experience Manager — JSP templates, server-rendered HTML, personalized hero zones pulled from AEM endpoints. Category pages, search, and product detail pages run on ShopNext, a React SPA built on Webpack (`webpackChunkkmn_ui`). Akamai routes between them invisibly, deciding per-session which version each visitor sees. The two stacks share first-party APIs but have different third-party call patterns: the legacy homepage generates 428 requests (384 third-party across 44 domains); ShopNext category pages generate 33 requests (24 third-party across 10 domains).

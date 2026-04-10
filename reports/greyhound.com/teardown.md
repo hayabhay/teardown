@@ -56,6 +56,7 @@ findings:
   - "Every search on greyhound.com silently fires a Booking.com tracking pixel (c360/v1/track) — an undisclosed hotel cross-sell partnership embedded in the primary bus search flow."
   - "The unauthenticated FlixBus search API returns exact seat counts, per-ride pricing, platform fee breakdowns, and operator identity for every route — exposing live inventory for both the FlixBus and Greyhound operators from a single endpoint."
   - "The search widget's JavaScript source map is publicly accessible on CloudFront, exposing 656 TypeScript files including feature flag definitions, URL-based flag overrides, and brand configuration for greyhound, flixbus, and kamil_koc."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

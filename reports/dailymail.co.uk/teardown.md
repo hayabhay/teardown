@@ -21,6 +21,7 @@ findings:
   - "Daily Mail's internal identity-sync endpoint accepts requests from any website and links a subscriber's CRM profile to their ad auction ID — no login required, CORS wide open"
   - "Production source maps on the CDN contain the original TypeScript source, the CI build server identity, and a hardcoded list of 37 countries where paywalling is silently disabled"
   - "57 ad and tracking domains fire the instant the page loads — before the consent banner even appears — and the CCPA cookie is pre-set to 'not opted out of sale'"
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

@@ -21,6 +21,7 @@ findings:
   - "All tRPC read endpoints return the full product catalog — including internal profitCode, v6Code POS identifiers, and offer pricing codes — without authentication, accepting storeId 0 as a universal parameter."
   - "ABTasty runs with runWithoutConsent:true, fingerprinting visitors and assigning A/B test buckets before the OneTrust consent banner even renders — despite the consent system being present on every page."
   - "LaunchDarkly flag prevent-orders-with-expired-cards-release is false, indicating the payment card expiry guard has not yet shipped to production."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

@@ -51,6 +51,7 @@ findings:
   - "The Content Security Policy on myaccount lists both Adyen live and Adyen test payment endpoints in production, alongside an AWS API Gateway WebSocket ID, AEM cloud program and environment IDs, and the full Salesforce org namespace -- a multi-cloud topology map readable from a single HTTP header."
   - "Each outage record includes a SPID (Service Point ID) and geographic coordinates for the affected infrastructure point, queryable in bulk with no authentication via standard ArcGIS REST queries."
   - "OneTrust is configured as GDPR-type for all US visitors, but categories C0001 through C0004 -- including targeting and advertising -- default to active on page load, auto-granting full consent before any user interaction on a California-regulated utility's site."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 Pacific Gas and Electric is California's largest investor-owned utility, serving 16 million people across 70,000 square miles of northern and central California. Their digital infrastructure spans a marketing site, a customer account portal, an outage notification system, and a real-time GIS-powered outage map -- each running on a different stack, stitched together by shared Adobe and OneTrust identifiers.

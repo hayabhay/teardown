@@ -21,6 +21,7 @@ findings:
   - "A gtinfo cookie set on every response encodes the visitor's city, state, ZIP, lat/lon, and DMA as unprotected JSON with no HttpOnly flag — readable by every ad script on the page, and confirmed read by the Tapad/Experian identity script before setting a cross-device tracking ID."
   - "A single visit to webmd.com enrolls the visitor into ID5 identity instances for six Internet Brands properties simultaneously (medicinenet.com, emedicinehealth.com, onhealth.com, rxlist.com, vitals.com) via a shared LaunchPad configuration — one health search, six publisher profiles."
   - "The consent management scripts deployed to production carry a -dirty git suffix (gdpr-ccpa/HEAD@6a0b974-dirty, v3.3.0), and global-metrics.min.js embeds the internal GitLab URL (gitlab.webmd.com/WebMD/Consumer/global-metrics) and a build engineer's name in a publicly-served comment."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 WebMD is the highest-traffic consumer health information site in the United States. The teardown covers the homepage, condition pages (diabetes, depression, obesity, heart failure, Alzheimer's), the drugs index, the pill identifier, the drug interaction checker, and the symptoms subdomain. Investigation was conducted on a fresh session from a US-based IP.

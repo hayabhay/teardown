@@ -55,6 +55,7 @@ findings:
   - "Legacy Rails routes expose internal microservice names (HELLBLAZER-WEB, KEPT_ITEMS_UI-WEB, CLIENTANALYTICSSERVICE-WEB) in x-request-id headers, production git SHAs, and Rails controller/action names in CSP report-uri parameters."
   - "GTM container has SHA-256 email hashing with vtp_isAutoCollectPiiEnabledFlag set to true, feeding hashed user.email and external_id to four distinct Facebook pixel IDs -- all firing pre-consent."
   - "OneTrust detects CPRA jurisdiction, sets all six consent groups to active including BG84 ('Allow Sale of Personal Information') with interactionCount=0 and no banner rendered -- 17 third-party domains including ID5, LiveRamp ATS, and Zeta/Boomtrain identity resolution fire on first page load without any user interaction."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 Stitch Fix is an online personal styling service -- you fill out a style quiz, a human stylist picks five items, a box ships to your door, you keep what you want and return the rest. The business model runs on profile data: preferences, purchase history, body measurements, fit feedback. The site's technical infrastructure reflects that orientation toward data collection at every layer.

@@ -1,6 +1,6 @@
 # /teardown
 
-Tearing down websites to find human creep & slop — for machines, by machines.
+Tearing down websites to find creep & slop — for machines, by machines.
 
 AI-generated teardown reports documenting how websites are built — architecture, API surface, tracking, and what's exposed. Read-only reconnaissance using browser automation. No exploitation, no modification.
 

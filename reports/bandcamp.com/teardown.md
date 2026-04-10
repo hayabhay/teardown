@@ -21,6 +21,7 @@ findings:
   - "Production /design_system page still links to songtradr.atlassian.net — documentation hosted on the previous owner's Atlassian instance, unchanged since the Beatport acquisition."
   - "BCCookies client bundle exposes Bandcamp's internal cookie governance: team names (fraud, growth, payments, seller-tools, and four others), 36+ image format IDs, and a cross-iframe cookie message bus using 5-second TTL cookies."
   - "Stripe fingerprinting cookies (__stripe_mid, __stripe_sid) are classified as 'necessary' in the BCCookies bundle and set on every page load before the consent dialog renders."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 Bandcamp has been through three owners in three years — Epic Games sold it to Songtradr in 2023, Songtradr imploded and handed it to Beatport in 2024 — and the technical archaeology is visible at every layer. The production design system page links to a Songtradr Atlassian Confluence workspace. The codebase is split between a modern Vue.js front end and a decade-old Knockout.js stack that powers every artist subdomain. The sales data flows openly to any caller who asks.

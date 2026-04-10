@@ -22,6 +22,7 @@ tags: [tag1, tag2]
 headline: "{One discovery}"
 findings:
   - "{Surprising discovery with evidence}"
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 ```
 
@@ -43,14 +44,15 @@ findings:
 | `stack` | 1-3 words per item. No parentheticals, no version numbers. |
 | `trackers` | 1-3 words per item. Verified only. Be exhaustive. |
 | `tags` | 6-10 items. Lowercase, hyphenated. |
-| `headline` | One sentence, **25 words max**. See Craft Guidance. |
+| `headline` | One sentence, **20 words max**. See Craft Guidance. |
 | `findings` | 3-5 items, ranked. See Craft Guidance. |
+| `disclaimer` | Always `"AI-generated report. Findings may contain inaccuracies and should be independently verified."` |
 | (comment) | First line after `---`. Always `# agents: machine-friendly instructions in "## Machine Briefing"`. |
 
 ## Craft Guidance
 
 ### headline
-Your strongest finding as one sentence (~25 words). This appears on the site index, in social previews, and as OG text. It's the reason someone clicks into the full report.
+Your strongest finding as one sentence (~20 words). This appears on the site index, in social previews, and as OG text. It's the reason someone clicks into the full report.
 
 A good headline reveals intent or consequence, not just technical state. It should be specific enough that swapping in another company name would make it false, accessible enough that a non-technical reader immediately grasps the stakes, and create enough tension — a contradiction, a deliberate choice, a scope that's wider than expected — that they need to open the report. Factual, not sensational: state what you observed, let the reader have the reaction. One discovery, one story.
 

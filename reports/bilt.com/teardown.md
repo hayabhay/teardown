@@ -65,6 +65,7 @@ findings:
   - "An identity platform migration is actively in progress — `identity-svc.use-keycloak-as-primary-idp = ON`, with three keycloak-webhook-svc sync flags simultaneously bridging FusionAuth events, indicating both IdPs are live in parallel."
   - "Internal admin tooling — retool.internal.biltrewards.com and jobrunr.internal.biltrewards.com — resolves publicly on the internet; GCP Identity-Aware Proxy client IDs are exposed in OAuth redirect URLs, making these tools enumerable even if not enterable."
   - "The web.lyft-concierge feature flag ships the complete internal merchant UUID map for ~100 restaurant partners across 8 cities to every unauthenticated browser as a JSON payload, undocumented in any public API."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

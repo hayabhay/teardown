@@ -49,6 +49,7 @@ findings:
   - "The privacy policy claims 'session cookies that disappear after you leave' while the site sets a 2-year Google Analytics ID, a 90-day click-linker cookie, and sends data to Google Ads, DoubleClick, Crazy Egg, and Monsido — none disclosed in the policy."
   - "The sitemap lists all 870 content URLs under the Pantheon internal hostname live-sfpuc.pantheonsite.io instead of the canonical domain — a fully accessible alternate entry point that serves the complete site with all tracking code."
   - "The power billing portal's registration configuration file exposes the SmartUsys SCP vendor identity and version, plus the full field schema including SSN, driving license, and security question options limited to four choices with 3-to-10-character answers."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

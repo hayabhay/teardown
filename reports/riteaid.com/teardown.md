@@ -42,6 +42,7 @@ findings:
   - "The new riteaid.com acquired the Rite Aid Rewards loyalty database -- names, emails, phone numbers, and purchase history -- from the January 2026 bankruptcy, giving a DTC health testing startup the customer list of a national pharmacy chain."
   - "Sentry runs site-wide with sendDefaultPii set to true, forwarding request headers, cookies, and IP addresses in error reports from a platform where users enter date of birth, gender, and home address during checkout."
   - "NY, NJ, and RI residents are blocked by a frontend-only RESTRICTED_STATES check in the checkout JavaScript; Washington state gets a separate health data consent gate required by the My Health My Data Act -- the only state-specific compliance control in the codebase."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Background: A Brand Acquired from Bankruptcy

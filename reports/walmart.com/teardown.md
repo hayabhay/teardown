@@ -56,6 +56,7 @@ findings:
   - "The Pulse beacon calls document.browsingTopics() and HUMAN Security holds Privacy Sandbox attestation — one of the more explicit large-scale Topics API deployments observed in production."
   - "Every production page response ships a mock:true flag and an internal HTTP dev URL (mock-backend.dev.walmart.com) in runtimeConfig, though the mock layer is disabled."
   - "Four One Finance OAuth client IDs for credit, debit, Pay Later, and Pay Wallet enumerate Walmart's full financial product surface from a single page load."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

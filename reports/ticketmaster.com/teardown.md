@@ -21,6 +21,7 @@ findings:
   - "Live Nation operates its own ad identity graph (Hadron at ad.gt) that fires on every Ticketmaster page, resolving visitor identities across the Live Nation ecosystem — a first-party tracking network disguised as a third-party domain."
   - "A public CloudFront endpoint serves per-event ad/sponsorship pixel configs including purchase-price variable mappings, exposing the ad revenue plumbing for every event without authentication."
   - "200+ feature flags are fully exposed client-side, naming disabled checkout features (buyNowPayLater, integratedResale) and every upsell partner (Fanatics, Parkwhiz, Spothero, JustPark) gated at checkout."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 ## Architecture

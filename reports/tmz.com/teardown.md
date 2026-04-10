@@ -57,6 +57,7 @@ findings:
   - "Fox's cross-property identity graph at prod.idgraph.dt.fox requires no authentication -- POST any visitor ID and get back LiveRamp, TradeDesk UID2, and Amazon ARID resolution fields."
   - "TMZ's inline feature flags still carry a CHANNEL_COMMERCE UUID and a prime_day schedule from November 2025 in every page response -- a Black Friday commerce activation baked into production months after it ended."
   - "Ketch consent lists zero vendors despite 22 active trackers, and auto-grants targeted advertising on first load via legalBasisDefault with no banner shown -- the consent framework is configured but functionally inert."
+disclaimer: "AI-generated report. Findings may contain inaccuracies and should be independently verified."
 ---
 
 TMZ operates as a celebrity gossip and entertainment news brand -- but under the hood, it runs on Fox Corporation's shared infrastructure from end to end. Auth, identity, analytics, ad delivery, and CDN all route through Fox internal domains. The independent brand sits on top of fully shared corporate plumbing.
