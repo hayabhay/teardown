@@ -60,6 +60,9 @@ A good headline reveals intent or consequence, not just technical state. It shou
 - Bad: "window.env exposes Stripe key, Arkose IDs, and access keys" — laundry list, no tension
 - Bad: "Unauthenticated API returns product data" — technical observation, no stakes
 - Bad: "Six markets default to opt-out consent, firing trackers before user interaction" — pre-consent tracking is common; only headline-worthy if the mechanism is novel
+
+**Consent/tracking is never the headline** — consent configs, pre-consent firing, GPC/DNT handlers, CMP gaps, cookie behavior. These are true of most sites. Litmus test: would this still be surprising if the site had perfect consent? If not, find the real headline.
+
 - Good: "Every paywalled article ships its full text in the HTML — the paywall is CSS that hides content your browser already downloaded"
 - Good: "Spirit's unauthenticated CMS API exposes 184 feature flags — including enableFakeBlockedMiddleSeats, a toggle for fake seat scarcity"
 - Good: "The /hotness API exposes real-time purchase counts for every product — combine with public prices and you're reading their live revenue"

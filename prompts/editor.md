@@ -22,11 +22,13 @@ Rewrite the frontmatter fields with fresh eyes:
 
 Frontmatter is for human consumption — it renders in article cards, og:image, tweets, and search previews. Write accordingly.
 
-- **headline** — the single most surprising, specific discovery. One sentence, **20 words max**. This appears on the og:image and article card — make it land. Structure it as observation + significance: what was found (can be technical) → why a regular user or layperson should care, or how it affects them. **Never lead with consent banners, pre-consent tracking, or cookie behavior** — these are common across nearly every commercial site and don't make someone click. Lead with what's unique to *this* site: exposed data, unreleased features, dark patterns, business logic, internal tooling.
+- **headline** — the single most surprising, specific discovery. One sentence, **20 words max**. This appears on the og:image and article card — make it land. Structure it as observation + significance: what was found (can be technical) → why a regular user or layperson should care, or how it affects them. Lead with what's unique to *this* site: exposed data, unreleased features, dark patterns, business logic, internal tooling. **Consent/tracking is never the headline** (see schema.md). Litmus test: would this still be surprising if the site had perfect consent?
 - **findings** — 3-5 items ranked by how surprising and unique they are to this site. Each finding follows the same structure: what was found → why a regular user or layperson should care, or how it affects them. Consent/tracking observations always rank last — they are never the top finding. Site-specific discoveries (exposed data, unreleased features, dark patterns, internal tooling) always rank first.
 - **summary**, **stack**, **trackers**, **tags** — verify against the report body, fix anything off.
 
 Think carefully. The analyst wrote everything at equal weight — your job is to identify what's actually interesting and surface it.
+
+**Before finalizing the headline, stress-test it.** Read it back as a stranger would. Ask: is this actually as bad as it sounds? A public API spec that *describes* SSN fields is not the same as exposed SSNs. A feature flag named "kill switch" might just be a toggle. An "unauthenticated endpoint" returning public data is just an API doing its job. Government employee names are public record, not a finding. Publicly available data surfaced through a public API is not a leak. If the headline implies a severity the evidence doesn't support, rewrite it to match what was actually observed — not what it could be mistaken for.
 
 ### Step 2 — Body Edits
 
