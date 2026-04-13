@@ -9,7 +9,7 @@ summary: "Split architecture: Adobe Experience Manager on Apache and CloudFront 
 date: "2026-04-12"
 time: "16:57"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Adobe Experience Manager, Angular, React, CloudFront, Azure Blob Storage]
 trackers: [Google Analytics 4, Google Ads, Facebook Pixel, Microsoft Clarity, Bing UET, Adobe Analytics, Adobe Audience Manager, Adobe Target, Adobe Experience Platform, The Trade Desk, TVSquared, Impact Radius, Decibel Insight, Kampyle, Extole, Forter, iovation, Socure, TrustArc]

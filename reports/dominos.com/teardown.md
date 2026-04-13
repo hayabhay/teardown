@@ -9,7 +9,7 @@ summary: "Next.js SSR app behind Akamai, with an Apollo GraphQL BFF at /api/web-
 date: "2026-04-12"
 time: "21:22"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Next.js, Apollo GraphQL, Akamai, Tealium, LaunchDarkly]
 trackers: [Adobe Analytics, Adobe Audience Manager, Google Tag Manager, Google Ads, SpeedCurve LUX, Raygun, UID2, LiveRamp, Tapad, iSpot.tv, Snap Pixel, TikTok Pixel, Pinterest Tag, Trade Desk, Bing UET, Yahoo SP Analytics, Epsilon Prescribe, ClickTale, Quantum Metric, Maze]

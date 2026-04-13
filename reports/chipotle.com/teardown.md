@@ -9,7 +9,7 @@ summary: "Chipotle runs four distinct technology stacks under one brand: an Adob
 date: 2026-04-06
 time: "00:36"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: [Adobe Experience Manager, Vue.js, Fastly, Azure CDN, Microsoft IIS, PerimeterX]
 trackers: [Adobe Analytics, Adobe Target, Google Tag Manager, Google Ads, DoubleClick, FullStory, Datadog RUM, Reddit Pixel, Microsoft UET, Twitter Pixel, Branch.io, Split.io, Ketch CMP, Vibes CM]

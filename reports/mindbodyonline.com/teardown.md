@@ -9,7 +9,7 @@ summary: "Mindbody runs two separate apps on one domain: a Drupal 11 B2B marketi
 date: "2026-04-12"
 time: "17:16"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack:
   - Drupal 11

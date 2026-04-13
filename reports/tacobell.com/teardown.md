@@ -9,7 +9,7 @@ summary: "Next.js SPA backed by SAP Commerce Cloud (Hybris) OCC API v4 on AWS AP
 date: "2026-04-12"
 time: "21:33"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Next.js, SAP Commerce Cloud, Akamai, Firebase, Contentful, AWS API Gateway]
 trackers: [Google Tag Manager, Google Analytics, Facebook Pixel, FullStory, Snapchat Pixel, Pinterest Tag, AppsFlyer, Datadog, Braze, TikTok Pixel]

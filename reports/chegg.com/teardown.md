@@ -9,7 +9,7 @@ summary: "Chegg runs a Next.js + Contentful homepage reverse-proxied from lpc-ui
 date: 2026-04-05
 time: "06:49"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: [Next.js, Contentful, GraphQL, Auth0, Recurly, CloudFront, PerimeterX]
 trackers: [Google Analytics, Google Ads, Meta Pixel, LinkedIn Insight Tag, Snapchat Pixel, TikTok Pixel, Reddit Pixel, Bing UET, HubSpot, Amplitude, Adobe Launch, Adobe DTM, New Relic, OneTrust, Optimizely, Studybreak Media]

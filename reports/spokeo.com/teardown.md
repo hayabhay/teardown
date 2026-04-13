@@ -9,7 +9,7 @@ summary: "Spokeo runs a Ruby on Rails backend with Phusion Passenger 6.1.0 behin
 date: "2026-04-13"
 time: "01:50"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Ruby on Rails, Next.js, Phusion Passenger, AWS, Apache]
 trackers: [GA4, Google Ads, Facebook Pixel, LinkedIn Ads, Pinterest, Snowplow, LiveRamp, FullContact, Osano, 6sense, AppNexus]

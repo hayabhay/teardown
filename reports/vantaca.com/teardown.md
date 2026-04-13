@@ -9,7 +9,7 @@ summary: "HubSpot CMS marketing site pre-rendered and edge-cached via Cloudflare
 date: "2026-04-12"
 time: "21:12"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [HubSpot CMS, Cloudflare, Google Tag Manager]
 trackers: [Google Analytics 4, Google Ads, Facebook Pixel, LinkedIn Insight, Reddit Pixel, Hotjar, 6Sense, Influ2, Aggle OIR, G2, Seona]

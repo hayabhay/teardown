@@ -9,7 +9,7 @@ summary: "React SSR frontend on nginx/Envoy service mesh behind Akamai CDN, with
 date: "2026-04-12"
 time: "21:30"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [React, Apollo GraphQL, Akamai, Auth0, Tealium, Dynatrace, Envoy]
 trackers: [Google Analytics 4, Google Tag Manager, Google Campaign Manager 360, Adobe Analytics, Adobe Audience Manager, Adobe Experience Platform, Facebook Pixel, TikTok Pixel, Pinterest Pixel, Snapchat Pixel, Reddit Pixel, The Trade Desk, Criteo, LiveRamp ATS, Zeta Global, Boomtrain, Quantum Metric, DoubleVerify, mParticle, Adnuntius, OneTrust, Akamai mPulse]

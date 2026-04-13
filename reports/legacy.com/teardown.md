@@ -9,7 +9,7 @@ summary: "Four stacks under one domain: a Framer-built homepage, Next.js with Re
 date: "2026-04-12"
 time: "21:20"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Next.js, Framer, Django, ASP.NET, Cloudflare, Prebid.js]
 trackers: [Google Tag Manager, Google Analytics 4, Google Ads, Bing UET, Wunderkind, comScore, ID5, IntentIQ, LiveIntent, Lotame, Trade Desk UID2, 33Across, Criteo, Braze, Amazon Publisher Services, Optable, LogRocket, Marfeel, Statsig, Framer Analytics, OpeCloud, Intercom, Sovrn]

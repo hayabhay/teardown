@@ -9,7 +9,7 @@ summary: "Four Next.js apps (marketing, scheduling, dentist pages, digital conte
 date: "2026-04-12"
 time: "20:44"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Next.js, Contentful, Kubernetes, CloudFront]
 trackers: [Freshpaint, VWO, Invoca, LogRocket, OneTrust, Google Tag Manager, Google Analytics, Google Ads, Qualtrics, Birdeye]

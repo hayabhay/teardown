@@ -9,7 +9,7 @@ summary: "PHP/Laravel backend with Vite-built frontend, served entirely as serve
 date: 2026-04-12
 time: "07:15"
 contributor: hayabhay
-model: sonnet-4-6
+model: "sonnet-4.6"
 effort: high
 stack: [Laravel, Vite, Cloudflare, GrowthBook]
 trackers: [Google Analytics 4, Google Tag Manager, Google Maps]

@@ -9,7 +9,7 @@ summary: "Next.js 15 App Router SPA on Akamai CDN with an Istio/Envoy service me
 date: 2026-04-06
 time: "16:57"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: [Next.js, React, tRPC, Akamai, Istio, Firebase, LaunchDarkly, Braze]
 trackers: [Google Tag Manager, Google Analytics, Google Ads, Facebook Pixel, TikTok Pixel, Snapchat Pixel, FullStory, ABTasty, Yahoo Analytics, AppDynamics, Akamai mPulse]

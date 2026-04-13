@@ -9,7 +9,7 @@ summary: "Server-rendered PHP stack with jQuery and a custom xv JS namespace on 
 date: "2026-04-08"
 time: "01:08"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: [nginx, jQuery, HLS.js, CDN77, RequireJS]
 trackers: [ExoClick, New Relic, Cloudflare Insights, FriendlyCaptcha]

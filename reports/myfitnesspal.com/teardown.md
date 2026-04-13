@@ -9,7 +9,7 @@ summary: "Next.js frontend on Cloudflare with Envoy proxy, assets at web-assets.
 date: 2026-04-13
 time: "01:38"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: high
 stack: [Next.js, Cloudflare, Envoy, Stripe, NextAuth]
 trackers: [Google Analytics, Google Ads, AppsFlyer, Amplitude, Datadog RUM, Amazon Publisher Services, Meta Pixel, Pinterest, TikTok, Branch, TV Squared, The Trade Desk]

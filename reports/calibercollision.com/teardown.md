@@ -9,7 +9,7 @@ summary: "Next.js 14 headless frontend over dotCMS cloud (caliber-prod.dotcms.cl
 date: 2026-04-12
 time: "20:31"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: medium
 stack:
   - Next.js

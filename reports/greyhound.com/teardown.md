@@ -9,7 +9,7 @@ summary: "Greyhound runs entirely on FlixBus infrastructure — Drupal CMS at cd
 date: 2026-04-07
 time: "08:15"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - Drupal

@@ -9,7 +9,7 @@ summary: "SFPUC.gov runs Drupal 10.5.7 on Pantheon CDN with Varnish and nginx, u
 date: 2026-04-07
 time: "04:02"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - Drupal 10

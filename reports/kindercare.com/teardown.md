@@ -9,7 +9,7 @@ summary: "ASP.NET/IIS monolith behind CloudFront, with a 36,000-page SEO locatio
 date: 2026-04-13
 time: "01:43"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: high
 stack: ["ASP.NET", "Microsoft IIS", "CloudFront", "jQuery", "LivePerson"]
 trackers: ["Google Analytics 4", "Google Analytics Universal", "Google Ads", "Facebook Pixel", "Microsoft UET", "LinkedIn Ads", "Twitter Ads", "Hotjar", "Datadog RUM", "VWO", "Nextdoor Ads", "GetBack.ch", "Tune"]

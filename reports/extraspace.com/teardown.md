@@ -9,7 +9,7 @@ summary: "Next.js on Vercel running a platform internally called Moonshot, which
 date: "2026-04-12"
 time: "17:14"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Next.js, Vercel, Contentful, PerimeterX, Optimizely]
 trackers: [Google Analytics, Bing UET, TikTok Pixel, Facebook Pixel, Google Ads, Quantum Metric, Qualtrics, GTM, Datadog RUM]

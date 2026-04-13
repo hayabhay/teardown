@@ -9,7 +9,7 @@ summary: "bart.gov runs Drupal 10 on Acquia behind Cloudflare and Varnish, with 
 date: 2026-04-08
 time: "05:42"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: [Drupal 10, Acquia, Cloudflare, Varnish, ASP.NET, HAFAS, FastAPI, Auth0]
 trackers: [Google Analytics, Google Analytics 4, Google Ads, Google Tag Manager, Facebook Pixel, Twitter Pixel, Trade Desk, Cloudflare Web Analytics]

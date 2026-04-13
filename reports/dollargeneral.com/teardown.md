@@ -9,7 +9,7 @@ summary: "Dollar General runs Adobe Experience Manager as a Cloud Service (AEM C
 date: 2026-04-07
 time: "03:44"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - Adobe AEM Cloud

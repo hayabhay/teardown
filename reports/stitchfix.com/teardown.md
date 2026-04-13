@@ -9,7 +9,7 @@ summary: "Stitch Fix runs a two-stack architecture: a Next.js frontend (growth-n
 date: 2026-04-07
 time: "02:09"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - Next.js

@@ -9,7 +9,7 @@ summary: "Drupal 10 on CloudFront CDN serves the main site and Inner Circle loya
 date: "2026-04-12"
 time: "20:32"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "medium"
 stack: [Drupal 10, Next.js, CloudFront, GTM, Cookiebot]
 trackers: [Google Analytics 4, Google Ads, Google Campaign Manager, Facebook Pixel, Hotjar, Qualtrics, AppsFlyer, Microsoft Clarity, Sentry, Mapbox]

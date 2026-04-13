@@ -9,7 +9,7 @@ summary: "Next.js SSR app served via Azure CDN (Front Door) with a custom cwa01 
 date: 2026-04-12
 time: "07:02"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: high
 stack: [Next.js, Azure CDN, Scene7]
 trackers: [Google Analytics, Google Tag Manager, Google Ads, mParticle, Optimizely, New Relic, Kenshoo/Skai, TrustArc, F5 Shape Security]

@@ -9,7 +9,7 @@ summary: "Next.js SSR site on Akamai CDN with an Apollo GraphQL API at service.b
 date: "2026-04-13"
 time: "01:43"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "medium"
 stack: [Next.js, Apollo GraphQL, Akamai]
 trackers: [Google Analytics 4, Google Tag Manager, Snowplow, LiveRamp, DoubleVerify, Amazon TAM, Rubicon/Magnite, Microsoft Bing, Ziff Davis ZDBB, AppsFlyer, OneTrust, AdLightning]

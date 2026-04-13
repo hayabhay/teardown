@@ -9,7 +9,7 @@ summary: "Sephora runs a hybrid SSR/client-side stack behind Akamai WAF, with a 
 date: "2026-04-12"
 time: "07:17"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Akamai, Adobe Launch, Constructor.io, Dynatrace, Braze, Forter, Kasada]
 trackers: [Adobe Analytics, Adobe Audience Manager, Adobe Target, Google Ads, Dynatrace RUM, ZineOne, Bluecore, Braze, Branch.io, Neustar, Reddit Pixel, Bing UET, Snapchat Pixel, TikTok Pixel, Forter, Medallia, Gladly]

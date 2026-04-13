@@ -9,7 +9,7 @@ summary: "portoflosangeles.org runs a custom ASP.NET MVC 5.2 frontend on IIS beh
 date: 2026-04-07
 time: "03:49"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - ASP.NET MVC

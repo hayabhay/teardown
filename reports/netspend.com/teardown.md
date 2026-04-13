@@ -9,7 +9,7 @@ summary: "Two-layer architecture: a Faust.js/Next.js headless WordPress marketin
 date: 2026-04-13
 time: "01:49"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: high
 stack:
   - Next.js

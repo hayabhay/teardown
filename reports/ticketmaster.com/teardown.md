@@ -9,7 +9,7 @@ summary: "Ticketmaster runs a hybrid architecture: a Next.js frontend (build pro
 date: 2026-04-05
 time: "20:31"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: ["Next.js", "Fastly", "Redux", "WebAssembly", "Varnish"]
 trackers: ["Google Tag Manager", "Google Analytics 4", "Google Ad Manager", "Google Ads", "ContentSquare", "Lytics", "Monetate", "OneTrust", "Hadron", "Quantcast", "Pinterest Pixel", "Spotify Pixel", "Reddit Pixel", "Amazon DSP", "Bing UET", "The Trade Desk", "reCAPTCHA Enterprise", "Bugsnag", "Zendesk"]

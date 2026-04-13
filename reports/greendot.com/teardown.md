@@ -9,7 +9,7 @@ summary: "Green Dot runs Adobe Experience Manager on Apache behind CloudFront fo
 date: "2026-04-13"
 time: "01:45"
 contributor: "hayabhay"
-model: "sonnet-4-6"
+model: "sonnet-4.6"
 effort: "medium"
 stack:
   - Adobe AEM

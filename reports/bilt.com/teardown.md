@@ -9,7 +9,7 @@ summary: "Bilt runs a split frontend: Framer for marketing pages and Next.js (Ap
 date: 2026-04-07
 time: "02:34"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - Next.js

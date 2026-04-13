@@ -9,7 +9,7 @@ summary: "Autotrader runs two independently-deployed Next.js applications under 
 date: 2026-04-05
 time: "22:23"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: ["Next.js", "Akamai", "Adobe Experience Manager", "Solr", "AWS", "New Relic", "OneTrust", "Prebid.js"]
 trackers: ["Google Analytics 4", "Google Tag Manager", "Google Ads", "Meta Pixel", "Reddit Pixel", "Pinterest Pixel", "Snapchat Pixel", "RTB House", "Criteo", "Microsoft UET", "TreasureData", "New Relic APM", "Pendo", "Verint ForeSee", "AudioEye", "Optimizely", "AppsFlyer", "BlueCava", "Cox Auto Pixall", "PubMatic", "AppNexus Xandr", "Index Exchange", "TripleLift", "OpenX", "Yahoo", "Prebid.js"]

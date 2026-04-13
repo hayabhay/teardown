@@ -9,7 +9,7 @@ summary: "React frontend served via Fastly CDN with Varnish edge routing by U.S.
 date: "2026-04-13"
 time: "01:45"
 contributor: "hayabhay"
-model: "opus-4-6"
+model: "sonnet-4.6"
 effort: "high"
 stack: [React, Fastly, PerimeterX, Segment, Optimizely, Descope]
 trackers: [Google Tag Manager, Segment, Optimizely, Datadog, Parse.ly, LiveRamp, System1, Taboola, DoubleVerify, comScore, Osano, Branch.io, BlueCava]

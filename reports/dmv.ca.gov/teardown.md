@@ -9,7 +9,7 @@ summary: "dmv.ca.gov runs a five-layer stack: F5 Volterra ADC fronts CloudFront,
 date: 2026-04-05
 time: "00:28"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: ["WordPress", "IBM ISAM", "AWS CloudFront", "F5 Volterra", "Java", "Google Tag Manager"]
 trackers: ["Google Analytics 4", "Google Analytics UA", "Google Tag Manager", "Google Optimize", "ABTasty", "Hotjar", "Medallia", "Glance Cobrowse", "Facebook Pixel", "Twitter Pixel", "Google Ads", "IP Geolocation", "LexisNexis ThreatMetrix", "Google reCAPTCHA"]

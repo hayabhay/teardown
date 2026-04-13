@@ -9,7 +9,7 @@ summary: "Grammarly's marketing site runs two separate SSR surfaces — a Next.j
 date: 2026-04-07
 time: "21:33"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - Next.js

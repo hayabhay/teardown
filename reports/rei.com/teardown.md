@@ -9,7 +9,7 @@ summary: "Vue.js SSR frontend served via Akamai CDN with aggressive bot protecti
 date: "2026-04-12"
 time: "21:33"
 contributor: "hayabhay"
-model: "opus-4.6"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Vue.js, Akamai, Tealium, Constructor.io, Adobe Experience Cloud, Java]
 trackers: [OneTrust, Tealium, Google Tag Manager, Adobe Analytics, Adobe Audience Manager, Adobe Target, Google Analytics, Google Ads, DoubleClick, Facebook Pixel, Pinterest Tag, Microsoft UET, Twitter Pixel, AppsFlyer, Bluecore, Qualtrics, Datadog RUM, RichRelevance, AlgoRecs, Gladly, Impact Radius, Curalate, Movable Ink, Mixpanel, Channel Advisor, Invoca, Bazaarvoice]

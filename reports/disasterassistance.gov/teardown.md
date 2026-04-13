@@ -9,7 +9,7 @@ summary: "Drupal 10 frontend proxied through Akamai CDN/WAF, backed by a legacy 
 date: 2026-04-12
 time: "17:00"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: medium
 stack:
   - Drupal 10

@@ -9,7 +9,7 @@ summary: "WordPress 6.9.4 on WP Engine behind Cloudflare. jQuery-based with no S
 date: "2026-04-12"
 time: "20:36"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "medium"
 stack: [WordPress, WP Engine, Cloudflare, jQuery, Yoast SEO]
 trackers: [Google Analytics, Google Tag Manager, DoubleClick, CookieYes, AddToAny]

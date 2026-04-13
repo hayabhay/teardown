@@ -9,7 +9,7 @@ summary: "Spirit Airlines runs an Angular SPA fronted by Akamai CDN and Perimete
 date: 2026-04-05
 time: "00:27"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - Angular

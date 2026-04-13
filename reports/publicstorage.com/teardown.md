@@ -9,7 +9,7 @@ summary: "Built on Salesforce Commerce Cloud (Demandware v22.6) behind Cloudflar
 date: "2026-04-12"
 time: "07:14"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Salesforce Commerce Cloud, Cloudflare, jQuery, Google Tag Manager]
 trackers: [Google Analytics 4, Google Ads, LinkedIn Insight Tag, Reddit Pixel, RTBHouse, VWO, Lytics, Metarouter, Widengle, OneTrust, HawkSearch, Salesforce Chat]

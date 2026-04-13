@@ -9,7 +9,7 @@ summary: "React 16 SPA on a custom AMD module loader ('nucleus'), served through
 date: "2026-04-12"
 time: "21:44"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [React, Apollo GraphQL, Varnish, Akamai, Nginx]
 trackers: [Quantum Metric, PerimeterX, Akamai Bot Manager, ThreatMetrix, Forter, Adobe Experience Cloud, Adobe Audience Manager, Google Analytics, Google Ads, DoubleClick Floodlight, MetaRouter, Qualtrics, Sprinklr, Amigo, New Relic, Akamai mPulse, Tapad, Acxiom, Amobee, RevJet, Pinterest, Yahoo]

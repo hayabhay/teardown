@@ -9,7 +9,7 @@ summary: "MySchoolBucks is a Java/JSP server-rendered web app behind an F5 Volte
 date: "2026-04-12"
 time: "21:29"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: high
 stack:
   - Java/JSP

@@ -9,7 +9,7 @@ summary: "Sitecore Experience Accelerator with jQuery and Backbone.js, fronted b
 date: 2026-04-12
 time: "20:39"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: medium
 stack:
   - Sitecore XA

@@ -9,7 +9,7 @@ summary: "Svelte frontend with server-side rendering behind Cloudflare, with a c
 date: 2026-04-08
 time: "00:55"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: [Svelte, Cloudflare, AWS CloudFront, HLS]
 trackers: [Google Analytics 4, Amplitude, Google Tag Manager, TrafficStars, Google DoubleClick, LiveJasmin, Google reCAPTCHA, Google One Tap, Sentry]

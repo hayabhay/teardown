@@ -9,7 +9,7 @@ summary: "Server-rendered HTML delivered through Akamai CDN with AWS ALB behind 
 date: "2026-04-13"
 time: "01:43"
 contributor: "hayabhay"
-model: "opus-4.6"
+model: "sonnet-4.6"
 effort: "high"
 stack:
   - Server-rendered HTML

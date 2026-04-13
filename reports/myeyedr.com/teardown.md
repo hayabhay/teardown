@@ -9,7 +9,7 @@ summary: "MyEyeDr runs a fragmented five-platform stack: Drupal 10 on Acquia Clo
 date: "2026-04-12"
 time: "20:39"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "medium"
 stack:
   - Drupal 10

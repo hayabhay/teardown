@@ -9,7 +9,7 @@ summary: "Next.js 13+ on Fastly CDN with haproxy and Varnish. Adobe Launch manag
 date: "2026-04-12"
 time: "21:24"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Next.js, React, Fastly, Adobe Launch, PerimeterX]
 trackers: [FullStory, Adobe Analytics, Adobe Audience Manager, Google Ads, DoubleVerify, Medallia, IBM Tealeaf, Google Private Aggregation]

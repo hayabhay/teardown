@@ -9,7 +9,7 @@ summary: "JCPenney runs a custom React SSR platform called Yoda on Spring Boot 2
 date: 2026-04-06
 time: "22:18"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - React SSR

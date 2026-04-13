@@ -9,7 +9,7 @@ summary: "Noom runs two separate applications under one domain: a WordPress mark
 date: "2026-04-13"
 time: "02:47"
 contributor: "hayabhay"
-model: "sonnet-4-6"
+model: "sonnet-4.6"
 effort: "high"
 stack: [WordPress, Altis Cloud, React, Cloudflare, CloudFront]
 trackers: [Google Analytics, Google Tag Manager, Facebook Pixel, Mixpanel, VWO, OneTrust, Singular, Google Ads, Optimizely]

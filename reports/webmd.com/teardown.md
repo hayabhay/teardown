@@ -9,7 +9,7 @@ summary: "WebMD runs a Vue.js 3 SSR frontend on Cloudflare CDN with Adobe Experi
 date: 2026-04-07
 time: "00:42"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: [Vue.js, Adobe Experience Platform, Cloudflare, Prebid.js, OpenResty, Kubernetes]
 trackers: [Google Analytics, Google Ad Manager, Adobe Analytics, Adobe Audience Manager, Facebook Pixel, Twitter Pixel, Reddit Pixel, Pinterest Pixel, OneTrust, ID5, LiveRamp ATS, 33Across, LiveIntent, IntentIQ, Tapad, TruAudience, Criteo, Amazon Publisher Services, DoubleVerify, Lotame, Conversant, PubMatic, Rubicon]

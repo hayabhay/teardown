@@ -9,7 +9,7 @@ summary: "ASP.NET Core (Kestrel) plus legacy WebForms on Azure App Service (West
 date: "2026-04-12"
 time: "17:13"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack:
   - ASP.NET Core

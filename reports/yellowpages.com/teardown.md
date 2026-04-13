@@ -9,7 +9,7 @@ summary: "Server-rendered site built on a jQuery 1.9/Backbone 1.1/Underscore 1.8
 date: 2026-04-12
 time: "06:46"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: medium
 stack:
   - Backbone.js

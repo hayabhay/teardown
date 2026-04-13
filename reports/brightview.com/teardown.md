@@ -9,7 +9,7 @@ summary: "Drupal 11 on Acquia hosting behind Varnish and Cloudflare. jQuery 4.0.
 date: "2026-04-12"
 time: "20:49"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Drupal 11, Acquia, Cloudflare, Varnish, Zurb Foundation, jQuery 4]
 trackers: [Google Tag Manager, Google Analytics 4, Monsido, HubSpot, Google reCAPTCHA Enterprise, Klaro, New Relic Browser, Csper]

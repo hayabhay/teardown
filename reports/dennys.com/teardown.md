@@ -9,7 +9,7 @@ summary: "dennys.com runs Drupal 11 on Acquia for content pages, with an Angular
 date: "2026-04-12"
 time: "06:55"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Drupal 11, Angular, NomNom, Cloudflare, Acquia, Capacitor]
 trackers: [FullStory, Glassbox, Google Analytics, mParticle, Braze, Optimizely, Firebase, Azure Application Insights, OneTrust]

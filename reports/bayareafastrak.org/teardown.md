@@ -9,7 +9,7 @@ summary: "Dual-system site: WordPress CMS for public content and a Java/JEE back
 date: 2026-04-12
 time: "21:11"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: medium
 stack:
   - WordPress

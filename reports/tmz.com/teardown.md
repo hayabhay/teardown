@@ -9,7 +9,7 @@ summary: "TMZ runs React + Redux on the client with server-side rendering via a 
 date: "2026-04-09"
 time: "00:53"
 contributor: "hayabhay"
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: "high"
 stack:
   - React

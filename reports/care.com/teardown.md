@@ -9,7 +9,7 @@ summary: "Care.com runs three independent Next.js micro-frontends (visitor homep
 date: "2026-04-13"
 time: "01:49"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack:
   - Next.js

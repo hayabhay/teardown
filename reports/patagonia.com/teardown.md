@@ -9,7 +9,7 @@ summary: "Patagonia runs its primary storefront on Salesforce Commerce Cloud SFR
 date: 2026-04-07
 time: "00:50"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: [Salesforce Commerce Cloud, jQuery, Akamai, Yottaa, Bloomreach, Shopify, WordPress]
 trackers: [Google Analytics, Google Ads, Google Tag Manager, FullStory, TikTok Pixel, Pinterest Tag, Snapchat Pixel, Reddit Pixel, LinkedIn Insight, The Trade Desk, ABTasty, Bloomreach, Attentive SMS, Klaviyo, Impact Radius, Qualtrics, Flashtalking, Bing UET]

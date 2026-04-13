@@ -9,7 +9,7 @@ summary: "Costco runs two parallel stacks under the same domain: a legacy IBM We
 date: "2026-04-12"
 time: "17:14"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Next.js, IBM WebSphere Commerce, Apigee X, Akamai, Istio]
 trackers: [OneTrust, Transcend, Criteo, Adobe Analytics, Adobe Target, Adobe Audience Manager, LogRocket, Akamai mPulse, Queue-it, Pixlee, Bazaarvoice, Syndigo]

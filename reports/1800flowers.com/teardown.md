@@ -9,7 +9,7 @@ summary: "React PWA backed by Apollo GraphQL and a Contentstack CMS. The checkou
 date: 2026-04-07
 time: "08:11"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - React

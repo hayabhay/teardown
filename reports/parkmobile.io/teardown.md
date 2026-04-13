@@ -9,7 +9,7 @@ summary: "ParkMobile runs two Next.js sites -- a Vercel-hosted marketing site (p
 date: 2026-04-12
 time: "07:20"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: high
 stack:
   - Next.js

@@ -9,7 +9,7 @@ summary: "Next.js SSR frontend on CloudFront with Lambda@Edge bot challenges, Ap
 date: "2026-04-12"
 time: "21:22"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [Next.js, Apollo GraphQL, CloudFront, Split.io, Tealium, PerimeterX]
 trackers: [Google Analytics, Google Ads, DoubleClick, Facebook Pixel, TikTok Pixel, Reddit Pixel, Snapchat Pixel, Pinterest Tag, Microsoft Clarity, Microsoft UET, The Trade Desk, Teads, Datadog RUM, DataGrail, Sentry]

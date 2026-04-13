@@ -9,7 +9,7 @@ summary: "Instacart runs React compiled with rspack on nginx behind CloudFront, 
 date: "2026-04-12"
 time: "01:47"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [React, rspack, Apollo GraphQL, nginx, CloudFront, Braze]
 trackers: [Google Analytics, Google Ads, GTM, Facebook Pixel, TikTok Pixel, Snapchat, Microsoft UET, The Trade Desk, Reddit Pixel, Pinterest, Branch.io, Braze, Ahoy, Forter, Stripe, Datadog, Sentry]

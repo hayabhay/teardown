@@ -9,7 +9,7 @@ summary: "Express runs a hybrid React/AEM/JSP stack internally called 'Raven,' s
 date: "2026-04-12"
 time: "06:56"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: high
 stack:
   - React

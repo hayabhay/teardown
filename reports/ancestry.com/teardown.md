@@ -9,7 +9,7 @@ summary: "Ancestry runs on Adobe Experience Manager served via Akamai (ancestryc
 date: 2026-04-13
 time: "01:55"
 contributor: hayabhay
-model: opus-4.6
+model: "sonnet-4.6"
 effort: medium
 stack: [Adobe Experience Manager, Adobe Target, Cloudflare, Akamai, Statsig]
 trackers: [Google Analytics, Google Ads, DoubleClick, Google Tag Manager, Meta Pixel, TikTok Pixel, Pinterest, Microsoft Bing, Amazon DSP, Adobe Analytics, Adobe Audience Manager, New Relic, Yahoo, LiveRamp, Revlifter, Qualtrics, ethn.io, Cloudflare Insights]

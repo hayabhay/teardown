@@ -9,7 +9,7 @@ summary: "Daily Mail runs a server-rendered Clojure CMS (internal name CLJ, vers
 date: 2026-04-06
 time: "04:57"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: ["Akamai", "Clojure CMS", "Zephr", "Prebid.js", "Sophi AI", "TeamCity"]
 trackers: ["Google Analytics", "Google DFP", "Facebook Pixel", "Permutive", "Visual Website Optimizer", "DotMetrics", "ID5", "LiveRamp", "33Across", "IAS", "StackAdapt", "Kargo", "RTB House", "Pushly", "Outbrain", "Connatix", "Boomerang"]

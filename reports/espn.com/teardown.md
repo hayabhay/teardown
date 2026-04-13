@@ -9,7 +9,7 @@ summary: "ESPN serves server-rendered HTML through a CloudFront + Varnish CDN st
 date: 2026-04-07
 time: "00:34"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - Varnish

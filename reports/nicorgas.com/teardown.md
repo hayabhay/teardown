@@ -9,7 +9,7 @@ summary: "nicorgas.com runs Adobe Experience Manager on Apache Sling, served fro
 date: "2026-04-12"
 time: "17:30"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: high
 stack:
   - Adobe Experience Manager

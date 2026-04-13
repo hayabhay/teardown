@@ -9,7 +9,7 @@ summary: "ASP.NET MVC on Azure behind Cloudflare CDN and WAF, with Sitecore CMS 
 date: "2026-04-12"
 time: "20:45"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack: [ASP.NET, Sitecore, Cloudflare, Coveo, Google Tag Manager]
 trackers: [Google Analytics, Google Ads, DV360, Facebook Pixel, TikTok Pixel, Microsoft Clarity, StackAdapt, Simpli.fi, Teads, Nextdoor Ads, Reddit Pixel, Bing Ads, New Relic, OneTrust, iovox, eqads]

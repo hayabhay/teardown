@@ -9,7 +9,7 @@ summary: "Public marketing site on WordPress (WP Engine + Cloudflare), custom th
 date: 2026-04-12
 time: "20:41"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: high
 stack:
   - WordPress

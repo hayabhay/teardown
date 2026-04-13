@@ -9,7 +9,7 @@ summary: "Sitecore CMS (.NET) serving the main site with Handlebars templating, 
 date: "2026-04-13"
 time: "02:43"
 contributor: hayabhay
-model: sonnet
+model: "sonnet-4.6"
 effort: high
 stack:
   - Sitecore

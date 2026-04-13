@@ -9,7 +9,7 @@ summary: "NYC.gov runs on Adobe Experience Manager Cloud Service behind Akamai C
 date: 2026-04-07
 time: "00:46"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: [Adobe AEM, Akamai CDN, Azure APIM, Coveo, Dynatrace, Spring Boot, Granicus]
 trackers: [Google Analytics 4, Google Tag Manager, Dynatrace RUM, Akamai mPulse, Coveo Analytics, Adobe Helix RUM]

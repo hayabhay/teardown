@@ -9,7 +9,7 @@ summary: "Navient runs a Nuxt.js/Vue static site on S3 behind CloudFront with St
 date: "2026-04-13"
 time: "01:45"
 contributor: "hayabhay"
-model: "sonnet"
+model: "sonnet-4.6"
 effort: "high"
 stack:
   - Nuxt.js

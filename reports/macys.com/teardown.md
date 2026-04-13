@@ -9,7 +9,7 @@ summary: "Macy's runs a Nuxt 3 / Vue 3 SSR frontend behind Akamai WAF and CDN, w
 date: 2026-04-06
 time: "22:11"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - Nuxt

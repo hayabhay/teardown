@@ -9,7 +9,7 @@ summary: "CVS.com runs a multi-app architecture: Next.js for the main site and b
 date: 2026-04-07
 time: "01:26"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - Next.js

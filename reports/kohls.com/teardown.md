@@ -9,7 +9,7 @@ summary: "Kohl's is mid-migration from an AEM/JSP monolith to a React SPA called
 date: 2026-04-08
 time: "18:09"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: ["Adobe Experience Manager", "React", "Akamai", "Adobe Launch", "Adobe Target", "Salesforce Evergage"]
 trackers: ["Google Analytics 4", "Google Ads", "Campaign Manager 360", "Google Tag Manager", "Adobe Analytics", "Adobe Audience Manager", "Adobe Target", "Salesforce Evergage", "ContentSquare", "OneTrust", "ID5", "LiveRamp", "Criteo", "Pinterest", "TikTok", "LinkedIn", "Twitter", "Reddit", "Snapchat", "Facebook", "Taboola", "Impact Radius", "Blue Triangle", "Dynatrace", "New Relic", "Akamai mPulse", "Bazaarvoice", "Verint", "Metrical", "Fohr", "Curalate", "Kargo", "Sharethrough", "PubMatic", "AppNexus", "33Across", "Index Exchange", "Granify", "nuData", "Confiant", "DomDog"]

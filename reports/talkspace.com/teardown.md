@@ -9,7 +9,7 @@ summary: "Talkspace runs a Webflow marketing site (coverage.talkspace.com) front
 date: 2026-04-13
 time: "01:51"
 contributor: hayabhay
-model: opus-4.6
+model: "sonnet-4.6"
 effort: high
 stack: [Webflow, React, Cloudflare, CloudFront, AWS Cognito, Agora, Capacitor, OpenResty]
 trackers: [Google Analytics 4, Mixpanel, Segment, Google Tag Manager, Visual Website Optimizer, Intellimize, New Relic, OneTrust, Zendesk, Trustpilot]

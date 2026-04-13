@@ -9,7 +9,7 @@ summary: "Pornhub runs on OpenResty (Nginx + LuaJIT) with a jQuery/Vue.js fronte
 date: 2026-04-06
 time: "16:52"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: [OpenResty, jQuery, Vue.js, Workbox, phncdn CDN, ProBiller]
 trackers: [Google Analytics 4, Google Tag Manager, TrafficJunky, Atlas, AdTNG, EroHub, Etahub, Bongacams, Chaturbate, Stripchat, SinParty, FingerprintJS]

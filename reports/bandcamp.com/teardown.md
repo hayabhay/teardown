@@ -9,7 +9,7 @@ summary: "Bandcamp runs a dual-stack architecture: new Vue.js/Vite apps at bandc
 date: 2026-04-06
 time: "00:35"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack: [Ruby, Vue.js, Knockout.js, Varnish, Vite, Fastly]
 trackers: [Google Analytics 4, Google Tag Manager, Meta Pixel, Sentry, Stripe, reCAPTCHA Enterprise]

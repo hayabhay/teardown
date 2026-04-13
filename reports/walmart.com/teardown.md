@@ -9,7 +9,7 @@ summary: "Walmart.com is a Next.js 14 SSR application (build usweb-1.253.0) serv
 date: 2026-04-08
 time: "18:09"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - Next.js

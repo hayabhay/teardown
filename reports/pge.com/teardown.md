@@ -9,7 +9,7 @@ summary: "pge.com splits across three stacks: the public marketing site runs Ado
 date: 2026-04-07
 time: "02:21"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - Adobe Experience Manager

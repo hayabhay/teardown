@@ -9,7 +9,7 @@ summary: "IBM WebSphere Java EE monolith behind Akamai CDN, with a React 16 micr
 date: 2026-04-06
 time: "06:03"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - IBM WebSphere

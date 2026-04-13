@@ -9,7 +9,7 @@ summary: "Grab's public infrastructure splits into two surfaces: a WordPress 6.4
 date: 2026-04-07
 time: "18:49"
 contributor: hayabhay
-model: sonnet-4.6
+model: "sonnet-4.6"
 effort: high
 stack:
   - WordPress
