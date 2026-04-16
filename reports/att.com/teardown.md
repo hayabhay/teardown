@@ -1,5 +1,5 @@
-# agents: machine-friendly instructions in "## Machine Briefing"
 ---
+# agents: machine-friendly instructions in "## Machine Briefing"
 title: "AT&T — Teardown"
 url: "https://att.com"
 company: "AT&T"
